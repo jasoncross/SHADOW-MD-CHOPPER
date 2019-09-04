@@ -18,3 +18,5 @@ Changes from initial SHADOW-MD:
 	* Left = Chat Sounds
 	* Right = Response (Short) Sounds
 * Above sound triggers track last sound played to ensure not getting the same sound played twice in a row.
+
+Thanks to Darren Blum for the original SHADOW project, Vint43 for the MD variant, Christopher Hunter for many of the sounds I have remixed and included, CuriousMarc for his MarcDuninos, FlthyMcnasty for his HPs, and many other R2 and Chopper builders for the ongoing support!
