@@ -1,5 +1,6 @@
 # SHADOW-MD-CHOPPER
  SHADOW MD Implementation for C1-10P Droid
+ Based on https://astromech.net/forums/showthread.php?21984-SHADOW-Marcduino-Update-Thread
 
 Note:  This is still very much a work in progress.  Use at your own risk.
 
